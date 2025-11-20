@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JCEscrow" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary app colors -->
+        <item name="colorPrimary">#004AAD</item>
+        <item name="colorSecondary">#009688</item>
+        <item name="colorAccent">#FFD700</item>
+
+        <!-- Splash background color -->
+        <item name="android:windowSplashScreenBackground">#4E342E</item>
+
+        <!-- System bars -->
+        <item name="android:statusBarColor">#004AAD</item>
+        <item name="android:navigationBarColor">#004AAD</item>
+    </style>
+</resources>
